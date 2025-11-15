@@ -1,0 +1,4 @@
+D 'bayerhanck': Test for Non-Cointegration Use bayerhanck With STATA 19
+D
+F bayerhanck.ado
+F bayerhanck.sthlp
