@@ -1,6 +1,8 @@
 # bayerhanck
 Test for Non-Cointegration Use bayerhanck With STATA 19
 
+https://www.youtube.com/watch?v=RjyxEIJSb5M
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
